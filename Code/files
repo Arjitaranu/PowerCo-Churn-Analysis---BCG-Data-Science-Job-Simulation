@@ -1,1 +1,17 @@
+EXECUTIVE SUMMARY:
+
+
+Situation:
+PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers.
+
+Complication:
+The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment.
+
+Objectives:
+Build a predictive model to detect clients who are most likely to churn.
+Design a discount plan that will be offered to those clients
+
+Answer:
+Very powerful model that detects clients who are most likely to churn at a precision of 100%.
+20% discount is offered to those clients to dissuade them from churning.
 
